@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ![](https://i.imgur.com/f4JVcwS.png)
 
-:fa-link:[  Meu Site](http://marcelocaldasdevops.com/# "Meu Site")
+[  Meu Site](http://marcelocaldasdevops.com/# "Meu Site") 
 
-:fa-linkedin:  [Linkedin](https://www.linkedin.com/in/marcelo-caldas-/ "Linkedin")
+  [Linkedin](https://www.linkedin.com/in/marcelo-caldas-/ "Linkedin")
 
 
 
