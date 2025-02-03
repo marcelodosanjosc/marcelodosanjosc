@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 ![](https://i.imgur.com/f4JVcwS.png)
 
+![Marcelo](https://github-readme-stats.vercel.app/api?username=marcelodosanjosc&show_icons=true&theme=dracula)
 
-  
+
 <p>
   <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank" alt="Gmail" >
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
